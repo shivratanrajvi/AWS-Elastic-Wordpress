@@ -151,4 +151,4 @@ This configuration has several limitations :-
 - The IP of the instance is hardcoded into the database ....
 
 
-You can now move to [STAGE3]
+You can now move to [STAGE3](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-3.md)
