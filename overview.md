@@ -11,13 +11,13 @@ This Process has 7 steps, let's see how we can implement on AWS.
 - Step 7 - Cleanup 
 
 # STEPS
-[Step 1]
-[Step 2]
-[Step 3]
-[Step 4]
-[Step 5]
-[Step 6]
-[Step 7]
+- [Step 1]
+- [Step 2]
+- [Step 3]
+- [Step 4]
+- [Step 5]
+- [Step 6]
+- [Step 7]
 
 # Install VPC
 
