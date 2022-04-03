@@ -241,4 +241,4 @@ This configuration has several limitations :-
 - ~~The IP of the instance is hardcoded into the database ....~~ FIXED
 
 
-You can now optionally move to [STEP-6]
+You can now optionally move to [STEP-6](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-6.md)
