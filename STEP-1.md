@@ -262,9 +262,4 @@ This configuration has several limitations which you will resolve one by one wit
 - Right click `Wordpress-Manual` , `Instance State`, `Terminate`, `Yes, Terminate`
 
 
-Now you can Move to [STEP 2](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-1.md)
-
-
-
-
-
+Now you can Move to [STEP 2](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-2.md)
