@@ -200,4 +200,4 @@ This configuration has several limitations :-
 - The IP of the instance is hardcoded into the database ....
 
 
-You can now move to [STEP 4]
+You can now move to [STEP 4](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-4.md)
