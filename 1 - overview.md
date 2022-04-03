@@ -11,13 +11,13 @@ This Process has 7 steps, let's see how we can implement on AWS.
 - Step 7 - Cleanup 
 
 # STEPS
-- [Step 1]
-- [Step 2]
-- [Step 3]
-- [Step 4]
-- [Step 5]
-- [Step 6]
-- [Step 7]
+- [Step 1](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-1.md)
+- [Step 2](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-2.md)
+- [Step 3](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-3.md)
+- [Step 4](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-4.md)
+- [Step 5](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-5.md)
+- [Step 6](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-6.md)
+- [Step 7](https://github.com/shivratanrajvi/AWS-Elastic-Wordpress/blob/main/STEP-7.md)
 
 # Install VPC
 
