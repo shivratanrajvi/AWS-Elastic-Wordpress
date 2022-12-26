@@ -38,7 +38,7 @@ Click `View Instances`
 
 Wait for the instance to be in a `RUNNING` state  
 
-# Create SSM (System Manager Perameter Store Management) Parameter Store values for wordpress
+# Create SSM (System Manager Parameter Store Management) Parameter Store values for wordpress
 
 Storing configuration information within the SSM Parameter store scales much better than attempting to script them in some way.
 In this sub-section you are going to create parameters to store the important configuration items for the platform you are building.  
